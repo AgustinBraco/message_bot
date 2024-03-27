@@ -1,13 +1,14 @@
 # Bot mensajero
-En este repositorio se encuentra el desarrollo de una API para enviar mails. <br> 
-La herramienta expone un endpoint (con validación de apikey) que brinda la posibilidad de enviar un mail, consumiendo la API de [Resend](https://resend.com/) <br>
-Desarrollo vanilla, sin dependencias ni librerias. 
+
+En este repositorio se encuentra el desarrollo de un bot para enviar mensajes. <br>
+La herramienta está diseñada para programar crones que ejecuten funciones. <br>
+Desarrollado en Python: con Selenium, Schedule y Dotenv.
 
 ## Tecnologías
+
 <div>
-<img alt="Javascript" src="https://img.shields.io/badge/Javascript-7D9D9C?style=for-the-badge&logo=javascript&logoColor=white">
-<img alt="Node" src="https://img.shields.io/badge/Node-7D9D9C?style=for-the-badge&logo=node.js&logoColor=white">
-<img alt="Express" src="https://img.shields.io/badge/Express-7D9D9C?style=for-the-badge&logo=express&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-7D9D9C?style=for-the-badge&logo=python&logoColor=white">
+<img alt="Selenium" src="https://img.shields.io/badge/Selenium-7D9D9C?style=for-the-badge&logo=selenium&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/Git-7D9D9C?style=for-the-badge&logo=git&logoColor=white">
 <img alt="Github" src="https://img.shields.io/badge/Github-7D9D9C?style=for-the-badge&logo=github&logoColor=white">
 </div>
